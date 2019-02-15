@@ -25,7 +25,7 @@
     NSInteger anInteger;
     [aScanner scanInteger:&anInteger];
     NSString *container;
-    [aScanner scanUpToString:separatorString intoString:&container];
+    [aScanner scanUpToString:separatorString intoString:&container];//test
     
     return YES;
 }
