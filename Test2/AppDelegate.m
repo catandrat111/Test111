@@ -24,7 +24,7 @@
     NSScanner *aScanner = [NSScanner scannerWithString:bananas];
     NSInteger anInteger;//333
     [aScanner scanInteger:&anInteger];
-    NSString *container;
+    NSString *container;////8888
     [aScanner scanUpToString:separatorString intoString:&container];//test
     ///777
     return YES;
