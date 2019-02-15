@@ -20,7 +20,7 @@
     
    // [NSThread sleepForTimeInterval:10];
     NSString *bananas = @"137 small cases of bananas";
-    NSString *separatorString = @" of";
+    NSString *separatorString = @" of";///222
     NSScanner *aScanner = [NSScanner scannerWithString:bananas];
     NSInteger anInteger;
     [aScanner scanInteger:&anInteger];
