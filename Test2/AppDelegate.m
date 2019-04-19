@@ -26,7 +26,6 @@
     [aScanner scanInteger:&anInteger];
     NSString *container;
     [aScanner scanUpToString:separatorString intoString:&container];
-    NSLog(@"ff");
     return YES;
 }
 

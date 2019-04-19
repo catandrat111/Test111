@@ -22,6 +22,7 @@
 		51BA772A19EC19E10021DFE9 /* T1ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 51BA772819EC19E10021DFE9 /* T1ViewController.xib */; };
 		51BA772E19EC19FA0021DFE9 /* T2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 51BA772C19EC19FA0021DFE9 /* T2ViewController.m */; };
 		51BA772F19EC19FA0021DFE9 /* T2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 51BA772D19EC19FA0021DFE9 /* T2ViewController.xib */; };
+		51CE508B226973C6004B4F1A /* a.xml in Resources */ = {isa = PBXBuildFile; fileRef = 51CE508A226973C6004B4F1A /* a.xml */; };
 		51F86DDE19F5490A00E101BE /* AddressBookUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 51F86DDD19F5490A00E101BE /* AddressBookUI.framework */; };
 /* End PBXBuildFile section */
 
@@ -59,6 +60,7 @@
 		51BA772B19EC19FA0021DFE9 /* T2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = T2ViewController.h; sourceTree = "<group>"; };
 		51BA772C19EC19FA0021DFE9 /* T2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = T2ViewController.m; sourceTree = "<group>"; };
 		51BA772D19EC19FA0021DFE9 /* T2ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = T2ViewController.xib; sourceTree = "<group>"; };
+		51CE508A226973C6004B4F1A /* a.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = a.xml; sourceTree = "<group>"; };
 		51F86DDD19F5490A00E101BE /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBookUI.framework; path = System/Library/Frameworks/AddressBookUI.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -105,6 +107,7 @@
 		51BA76FF19EC16A70021DFE9 /* Test2 */ = {
 			isa = PBXGroup;
 			children = (
+				51CE508A226973C6004B4F1A /* a.xml */,
 				51BA770419EC16A70021DFE9 /* AppDelegate.h */,
 				51BA770519EC16A70021DFE9 /* AppDelegate.m */,
 				51BA770719EC16A70021DFE9 /* ViewController.h */,
@@ -214,6 +217,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -236,6 +240,7 @@
 				51950A3A19F0025A00C21D5F /* Default@2x.png in Resources */,
 				51BA770C19EC16A70021DFE9 /* Main.storyboard in Resources */,
 				51BA772A19EC19E10021DFE9 /* T1ViewController.xib in Resources */,
+				51CE508B226973C6004B4F1A /* a.xml in Resources */,
 				51BA772F19EC19FA0021DFE9 /* T2ViewController.xib in Resources */,
 				51BA771119EC16A70021DFE9 /* LaunchScreen.xib in Resources */,
 				51950A3919F0025A00C21D5F /* Default.png in Resources */,
