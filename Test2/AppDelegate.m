@@ -18,7 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
-   // [NSThread sleepForTimeInterval:10];
+   // [NSThread sleepForTimeInterval:10];//
     NSString *bananas = @"13711 small cases of bananas";
     NSString *separatorString = @" of";
     NSScanner *aScanner = [NSScanner scannerWithString:bananas];
