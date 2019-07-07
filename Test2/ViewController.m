@@ -21,7 +21,7 @@
 //    return self;
 //}
 - (void)viewDidLoad {
-    NSLog(@"hello");
+    NSLog(@"hello1111");
     [super viewDidLoad];
     [self watch];
     [self simpleMethod
