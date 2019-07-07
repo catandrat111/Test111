@@ -22,6 +22,7 @@
 //}
 - (void)viewDidLoad {
     NSLog(@"helloworld");
+    NSLog(@"nihao");
     [super viewDidLoad];
     [self watch];
     [self simpleMethod
