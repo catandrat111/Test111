@@ -1,12 +1,2 @@
-/target/
-.idea/encodings.xml
-.idea/misc.xml
-.idea/vcs.xml
-.idea/workspace.xml
-.idea/compiler.xml
-.idea/
 Test2.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
 Test2.xcodeproj/project.xcworkspace/xcuserdata/dongjinliang.xcuserdatad/UserInterfaceState.xcuserstate
-.xml
-Test2.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
-Test2/AppDelegate.m
